@@ -15,3 +15,4 @@ void main()
 	for_each(mylt.begin(),malt.end(),OutToScreen);
 	cout << endl;
 }
+#include <iostream>
